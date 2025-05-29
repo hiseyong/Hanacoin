@@ -63,7 +63,7 @@ build CMakeFiles/Hanacoin.dir/main.cpp.o: CXX_COMPILER__Hanacoin_unscanned_Debug
 #############################################
 # Link the executable Hanacoin
 
-build Hanacoin: CXX_EXECUTABLE_LINKER__Hanacoin_Debug CMakeFiles/Hanacoin.dir/main.cpp.o
+build Hanacoin: CXX_EXECUTABLE_LINKER__Hanacoin_Debug CMakeFiles/Hanacoin.dir/main.cpp.o CMakeFiles/Hanacoin.dir/sha256.cpp.o CMakeFiles/Hanacoin.dir/block.cpp.o CMakeFiles/Hanacoin.dir/blockchain.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk
   OBJECT_DIR = CMakeFiles/Hanacoin.dir
   POST_BUILD = :

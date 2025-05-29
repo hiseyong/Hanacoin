@@ -1,0 +1,6 @@
+# ninja log v6
+5	503	1748526734685445673	CMakeFiles/Hanacoin.dir/main.cpp.o	4b992dcee297edbf
+5	512	1748526734685964636	CMakeFiles/Hanacoin.dir/blockchain.cpp.o	cb6f769aba754876
+512	610	1748526735192815217	Hanacoin	94cc558fae48221e
+21	543	1748525373902235629	CMakeFiles/Hanacoin.dir/sha256.cpp.o	a8ca14712edea611
+5	503	1748526734685818843	CMakeFiles/Hanacoin.dir/block.cpp.o	5dfc0154f1e448ba
