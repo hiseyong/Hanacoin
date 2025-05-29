@@ -55,24 +55,6 @@ build CMakeFiles/Hanacoin.dir/main.cpp.o: CXX_COMPILER__Hanacoin_unscanned_Debug
   OBJECT_DIR = CMakeFiles/Hanacoin.dir
   OBJECT_FILE_DIR = CMakeFiles/Hanacoin.dir
 
-build CMakeFiles/Hanacoin.dir/sha256.cpp.o: CXX_COMPILER__Hanacoin_unscanned_Debug /Users/seyong/Documents/dev/C++/Hanacoin/sha256.cpp || cmake_object_order_depends_target_Hanacoin
-  DEP_FILE = CMakeFiles/Hanacoin.dir/sha256.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/Hanacoin.dir
-  OBJECT_FILE_DIR = CMakeFiles/Hanacoin.dir
-
-build CMakeFiles/Hanacoin.dir/block.cpp.o: CXX_COMPILER__Hanacoin_unscanned_Debug /Users/seyong/Documents/dev/C++/Hanacoin/block.cpp || cmake_object_order_depends_target_Hanacoin
-  DEP_FILE = CMakeFiles/Hanacoin.dir/block.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/Hanacoin.dir
-  OBJECT_FILE_DIR = CMakeFiles/Hanacoin.dir
-
-build CMakeFiles/Hanacoin.dir/blockchain.cpp.o: CXX_COMPILER__Hanacoin_unscanned_Debug /Users/seyong/Documents/dev/C++/Hanacoin/blockchain.cpp || cmake_object_order_depends_target_Hanacoin
-  DEP_FILE = CMakeFiles/Hanacoin.dir/blockchain.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/Hanacoin.dir
-  OBJECT_FILE_DIR = CMakeFiles/Hanacoin.dir
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Hanacoin
